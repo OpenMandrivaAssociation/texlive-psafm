@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-psafm
 Version:	20111104
-Release:	11
+Release:	12
 Summary:	TeXLive psafm package
 Group:		Publishing
 URL:		http://tug.org/texlive
