@@ -9,7 +9,7 @@ Version:	20111104
 Release:	12
 Summary:	TeXLive psafm package
 Group:		Publishing
-URL:		http://tug.org/texlive
+URL:		https://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/psafm.tar.xz
 BuildArch:	noarch
